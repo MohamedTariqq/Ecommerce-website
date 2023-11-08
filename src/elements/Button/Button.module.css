@@ -1,0 +1,10 @@
+.logout {
+  padding: 4px 4px;
+  cursor: pointer;
+  background-color: #53c28b;
+  outline: none;
+  border: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

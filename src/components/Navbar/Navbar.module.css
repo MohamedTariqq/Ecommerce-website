@@ -1,0 +1,18 @@
+.container {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.link:hover {
+  color: var(--color-primary);
+}
+.link {
+  transition: 0.2s ease-in-out;
+}
